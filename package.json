@@ -1,0 +1,12 @@
+{
+  "name": "serverless-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.py",
+  "devDependencies": {
+    "serverless-offline": "^6.5.0",
+    "serverless-python-requirements": "^5.1.1"
+  },
+  "author": "taberoajorge",
+  "license": "MIT"
+}
