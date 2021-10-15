@@ -1,5 +1,18 @@
 # Odoo
 
+
+##Clone the repo
+
+```
+git clone [path]
+```
+
+## Install dependencies
+
+```
+pip install requirements.txt
+```
+
 ## Serverless framework
 
 ```
